@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97e76e2f-9893-4e21-a3e9-fb0592d775de" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Training/0decoded.jpg" afterPath="$PROJECT_DIR$/Training/0decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/100decoded.jpg" afterPath="$PROJECT_DIR$/Training/100decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/101decoded.jpg" afterPath="$PROJECT_DIR$/Training/101decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/102decoded.jpg" afterPath="$PROJECT_DIR$/Training/102decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/103decoded.jpg" afterPath="$PROJECT_DIR$/Training/103decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/104decoded.jpg" afterPath="$PROJECT_DIR$/Training/104decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/105decoded.jpg" afterPath="$PROJECT_DIR$/Training/105decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/106decoded.jpg" afterPath="$PROJECT_DIR$/Training/106decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/107decoded.jpg" afterPath="$PROJECT_DIR$/Training/107decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/108decoded.jpg" afterPath="$PROJECT_DIR$/Training/108decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/109decoded.jpg" afterPath="$PROJECT_DIR$/Training/109decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/10decoded.jpg" afterPath="$PROJECT_DIR$/Training/10decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/110decoded.jpg" afterPath="$PROJECT_DIR$/Training/110decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/111decoded.jpg" afterPath="$PROJECT_DIR$/Training/111decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/112decoded.jpg" afterPath="$PROJECT_DIR$/Training/112decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/113decoded.jpg" afterPath="$PROJECT_DIR$/Training/113decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/114decoded.jpg" afterPath="$PROJECT_DIR$/Training/114decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/115decoded.jpg" afterPath="$PROJECT_DIR$/Training/115decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/116decoded.jpg" afterPath="$PROJECT_DIR$/Training/116decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/117decoded.jpg" afterPath="$PROJECT_DIR$/Training/117decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/118decoded.jpg" afterPath="$PROJECT_DIR$/Training/118decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/119decoded.jpg" afterPath="$PROJECT_DIR$/Training/119decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/11decoded.jpg" afterPath="$PROJECT_DIR$/Training/11decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/120decoded.jpg" afterPath="$PROJECT_DIR$/Training/120decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/121decoded.jpg" afterPath="$PROJECT_DIR$/Training/121decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/122decoded.jpg" afterPath="$PROJECT_DIR$/Training/122decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/123decoded.jpg" afterPath="$PROJECT_DIR$/Training/123decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/124decoded.jpg" afterPath="$PROJECT_DIR$/Training/124decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/12decoded.jpg" afterPath="$PROJECT_DIR$/Training/12decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/13decoded.jpg" afterPath="$PROJECT_DIR$/Training/13decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/14decoded.jpg" afterPath="$PROJECT_DIR$/Training/14decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/15decoded.jpg" afterPath="$PROJECT_DIR$/Training/15decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/16decoded.jpg" afterPath="$PROJECT_DIR$/Training/16decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/17decoded.jpg" afterPath="$PROJECT_DIR$/Training/17decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/18decoded.jpg" afterPath="$PROJECT_DIR$/Training/18decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/19decoded.jpg" afterPath="$PROJECT_DIR$/Training/19decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/1decoded.jpg" afterPath="$PROJECT_DIR$/Training/1decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/20decoded.jpg" afterPath="$PROJECT_DIR$/Training/20decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/21decoded.jpg" afterPath="$PROJECT_DIR$/Training/21decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/22decoded.jpg" afterPath="$PROJECT_DIR$/Training/22decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/23decoded.jpg" afterPath="$PROJECT_DIR$/Training/23decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/24decoded.jpg" afterPath="$PROJECT_DIR$/Training/24decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/25decoded.jpg" afterPath="$PROJECT_DIR$/Training/25decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/26decoded.jpg" afterPath="$PROJECT_DIR$/Training/26decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/27decoded.jpg" afterPath="$PROJECT_DIR$/Training/27decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/28decoded.jpg" afterPath="$PROJECT_DIR$/Training/28decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/29decoded.jpg" afterPath="$PROJECT_DIR$/Training/29decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/2decoded.jpg" afterPath="$PROJECT_DIR$/Training/2decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/30decoded.jpg" afterPath="$PROJECT_DIR$/Training/30decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/31decoded.jpg" afterPath="$PROJECT_DIR$/Training/31decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/32decoded.jpg" afterPath="$PROJECT_DIR$/Training/32decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/33decoded.jpg" afterPath="$PROJECT_DIR$/Training/33decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/34decoded.jpg" afterPath="$PROJECT_DIR$/Training/34decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/35decoded.jpg" afterPath="$PROJECT_DIR$/Training/35decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/36decoded.jpg" afterPath="$PROJECT_DIR$/Training/36decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/37decoded.jpg" afterPath="$PROJECT_DIR$/Training/37decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/38decoded.jpg" afterPath="$PROJECT_DIR$/Training/38decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/39decoded.jpg" afterPath="$PROJECT_DIR$/Training/39decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/3decoded.jpg" afterPath="$PROJECT_DIR$/Training/3decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/40decoded.jpg" afterPath="$PROJECT_DIR$/Training/40decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/41decoded.jpg" afterPath="$PROJECT_DIR$/Training/41decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/42decoded.jpg" afterPath="$PROJECT_DIR$/Training/42decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/43decoded.jpg" afterPath="$PROJECT_DIR$/Training/43decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/44decoded.jpg" afterPath="$PROJECT_DIR$/Training/44decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/45decoded.jpg" afterPath="$PROJECT_DIR$/Training/45decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/46decoded.jpg" afterPath="$PROJECT_DIR$/Training/46decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/47decoded.jpg" afterPath="$PROJECT_DIR$/Training/47decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/48decoded.jpg" afterPath="$PROJECT_DIR$/Training/48decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/49decoded.jpg" afterPath="$PROJECT_DIR$/Training/49decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/4decoded.jpg" afterPath="$PROJECT_DIR$/Training/4decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/50decoded.jpg" afterPath="$PROJECT_DIR$/Training/50decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/51decoded.jpg" afterPath="$PROJECT_DIR$/Training/51decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/52decoded.jpg" afterPath="$PROJECT_DIR$/Training/52decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/53decoded.jpg" afterPath="$PROJECT_DIR$/Training/53decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/54decoded.jpg" afterPath="$PROJECT_DIR$/Training/54decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/55decoded.jpg" afterPath="$PROJECT_DIR$/Training/55decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/56decoded.jpg" afterPath="$PROJECT_DIR$/Training/56decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/57decoded.jpg" afterPath="$PROJECT_DIR$/Training/57decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/58decoded.jpg" afterPath="$PROJECT_DIR$/Training/58decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/59decoded.jpg" afterPath="$PROJECT_DIR$/Training/59decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/5decoded.jpg" afterPath="$PROJECT_DIR$/Training/5decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/60decoded.jpg" afterPath="$PROJECT_DIR$/Training/60decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/61decoded.jpg" afterPath="$PROJECT_DIR$/Training/61decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/62decoded.jpg" afterPath="$PROJECT_DIR$/Training/62decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/63decoded.jpg" afterPath="$PROJECT_DIR$/Training/63decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/64decoded.jpg" afterPath="$PROJECT_DIR$/Training/64decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/65decoded.jpg" afterPath="$PROJECT_DIR$/Training/65decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/66decoded.jpg" afterPath="$PROJECT_DIR$/Training/66decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/67decoded.jpg" afterPath="$PROJECT_DIR$/Training/67decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/68decoded.jpg" afterPath="$PROJECT_DIR$/Training/68decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/69decoded.jpg" afterPath="$PROJECT_DIR$/Training/69decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/6decoded.jpg" afterPath="$PROJECT_DIR$/Training/6decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/70decoded.jpg" afterPath="$PROJECT_DIR$/Training/70decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/71decoded.jpg" afterPath="$PROJECT_DIR$/Training/71decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/72decoded.jpg" afterPath="$PROJECT_DIR$/Training/72decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/73decoded.jpg" afterPath="$PROJECT_DIR$/Training/73decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/74decoded.jpg" afterPath="$PROJECT_DIR$/Training/74decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/75decoded.jpg" afterPath="$PROJECT_DIR$/Training/75decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/76decoded.jpg" afterPath="$PROJECT_DIR$/Training/76decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/77decoded.jpg" afterPath="$PROJECT_DIR$/Training/77decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/78decoded.jpg" afterPath="$PROJECT_DIR$/Training/78decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/79decoded.jpg" afterPath="$PROJECT_DIR$/Training/79decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/7decoded.jpg" afterPath="$PROJECT_DIR$/Training/7decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/80decoded.jpg" afterPath="$PROJECT_DIR$/Training/80decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/81decoded.jpg" afterPath="$PROJECT_DIR$/Training/81decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/82decoded.jpg" afterPath="$PROJECT_DIR$/Training/82decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/83decoded.jpg" afterPath="$PROJECT_DIR$/Training/83decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/84decoded.jpg" afterPath="$PROJECT_DIR$/Training/84decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/85decoded.jpg" afterPath="$PROJECT_DIR$/Training/85decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/86decoded.jpg" afterPath="$PROJECT_DIR$/Training/86decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/87decoded.jpg" afterPath="$PROJECT_DIR$/Training/87decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/88decoded.jpg" afterPath="$PROJECT_DIR$/Training/88decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/89decoded.jpg" afterPath="$PROJECT_DIR$/Training/89decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/8decoded.jpg" afterPath="$PROJECT_DIR$/Training/8decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/90decoded.jpg" afterPath="$PROJECT_DIR$/Training/90decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/91decoded.jpg" afterPath="$PROJECT_DIR$/Training/91decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/92decoded.jpg" afterPath="$PROJECT_DIR$/Training/92decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/93decoded.jpg" afterPath="$PROJECT_DIR$/Training/93decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/94decoded.jpg" afterPath="$PROJECT_DIR$/Training/94decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/95decoded.jpg" afterPath="$PROJECT_DIR$/Training/95decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/96decoded.jpg" afterPath="$PROJECT_DIR$/Training/96decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/97decoded.jpg" afterPath="$PROJECT_DIR$/Training/97decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/98decoded.jpg" afterPath="$PROJECT_DIR$/Training/98decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/99decoded.jpg" afterPath="$PROJECT_DIR$/Training/99decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/9decoded.jpg" afterPath="$PROJECT_DIR$/Training/9decoded.jpg" />
+      <change beforePath="$PROJECT_DIR$/Training/trainer_vae.py" afterPath="$PROJECT_DIR$/Training/trainer_vae.py" />
+      <change beforePath="$PROJECT_DIR$/Training/vae_output/generative_model.pt" afterPath="$PROJECT_DIR$/Training/vae_output/generative_model.pt" />
+      <change beforePath="$PROJECT_DIR$/models/vae.py" afterPath="$PROJECT_DIR$/models/vae.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="trainer_vae.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Training/trainer_vae.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="324" column="14" lean-forward="true" selection-start-line="324" selection-start-column="14" selection-end-line="324" selection-end-column="14" />
+              <folding>
+                <element signature="e#90#102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vae.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/models/vae.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1092">
+              <caret line="92" column="32" lean-forward="false" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>glewo</find>
+      <find>model</find>
+      <find>.cuda()</find>
+      <find>.cuda(</find>
+      <find>optimizer_ac</find>
+      <find>env</find>
+      <find>batch</find>
+      <find>seed</find>
+      <find>get_fr</find>
+      <find>print</find>
+      <find>get_ac</find>
+      <find>future</find>
+      <find>fit_batch</find>
+      <find>epoch_episode_rewards</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data_loader.py" />
+        <option value="$PROJECT_DIR$/model.py" />
+        <option value="$PROJECT_DIR$/Double Q Learning.py" />
+        <option value="$USER_HOME$/mujoco-py/mujoco_py/builder.py" />
+        <option value="$PROJECT_DIR$/env_creator.py" />
+        <option value="$PROJECT_DIR$/random_process.py" />
+        <option value="$PROJECT_DIR$/parallel_process.py" />
+        <option value="$PROJECT_DIR$/attention.py" />
+        <option value="$PROJECT_DIR$/Buffer.py" />
+        <option value="$PROJECT_DIR$/DQN.py" />
+        <option value="$PROJECT_DIR$/data_structures.py" />
+        <option value="$PROJECT_DIR$/DDPG.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/trainer.py" />
+        <option value="$PROJECT_DIR$/PPO.py" />
+        <option value="$PROJECT_DIR$/train_dqn.py" />
+        <option value="$PROJECT_DIR$/Memory.py" />
+        <option value="$PROJECT_DIR$/models/DDPG.py" />
+        <option value="$PROJECT_DIR$/models/PPO.py" />
+        <option value="$PROJECT_DIR$/train_ddpg.py" />
+        <option value="$PROJECT_DIR$/train_infogan.py" />
+        <option value="$PROJECT_DIR$/models/infogan.py" />
+        <option value="$PROJECT_DIR$/train_beta_vae.py" />
+        <option value="$PROJECT_DIR$/Training/trainer.py" />
+        <option value="$PROJECT_DIR$/models/RandomExplorationPolicy.py" />
+        <option value="$PROJECT_DIR$/models/DARLA.py" />
+        <option value="$PROJECT_DIR$/Training/trainer_vae.py" />
+        <option value="$PROJECT_DIR$/models/vae.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pytorch-rl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytorch-rl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pytorch-rl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytorch-rl" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pytorch-rl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytorch-rl" type="462c0819:PsiDirectoryNode" />
+              <item name="Training" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="Dict&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Training" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Training" />
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$/Utils" />
+      <recent name="$PROJECT_DIR$/Memory" />
+      <recent name="$PROJECT_DIR$/distributed" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.trainer_vae">
+    <configuration name="RandomExplorationPolicy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DQN" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/RandomExplorationPolicy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="train_ddpg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DQN" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_ddpg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="train_dqn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DQN" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_dqn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="trainer_vae" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DQN" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Training/trainer_vae.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.train_dqn" />
+      <item index="1" class="java.lang.String" itemvalue="Python.train_ddpg" />
+      <item index="2" class="java.lang.String" itemvalue="Python.RandomExplorationPolicy" />
+      <item index="3" class="java.lang.String" itemvalue="Python.trainer_vae" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.trainer_vae" />
+        <item index="1" class="java.lang.String" itemvalue="Python.RandomExplorationPolicy" />
+        <item index="2" class="java.lang.String" itemvalue="Python.train_ddpg" />
+        <item index="3" class="java.lang.String" itemvalue="Python.train_dqn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97e76e2f-9893-4e21-a3e9-fb0592d775de" name="Default" comment="" />
+      <created>1519825379884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519825379884</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Training/13decoded.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/2decoded.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/36.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/96.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/160.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/200.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/244.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/304.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/516.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/588.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/704.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/856.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/996.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/1084.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/1156.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/1260.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/1356.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/1360.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/1364.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/1384.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/1472.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/1564.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/1616.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/1680.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/1756.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/1848.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/3800.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/3928.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/3904.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/3964.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/3996.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/3856.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/3064.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/2688.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/2104.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/montezuma_resources/1948.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/123decoded.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/7decoded.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/1decoded.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/56decoded.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/51decoded.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/24decoded.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/5decoded.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/0decoded.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/90decoded.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/117decoded.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/114decoded.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/trainer_vae.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="324" column="14" lean-forward="true" selection-start-line="324" selection-start-column="14" selection-end-line="324" selection-end-column="14" />
+          <folding>
+            <element signature="e#90#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/vae.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1092">
+          <caret line="92" column="32" lean-forward="false" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
